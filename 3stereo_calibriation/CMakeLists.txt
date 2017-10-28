@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 2.8)
+project(4stereo_calibration)
+set(OpenCV_DIR /home/wj/opencv/build)
+find_package(OpenCV  REQUIRED)
+INCLUDE_DIRECTORIES(${OpenCV_INCLUDE_DIR})
+add_executable(${PROJECT_NAME} "main.cpp")
+target_link_libraries(4stereo_calibration ${OpenCV_LIBS})

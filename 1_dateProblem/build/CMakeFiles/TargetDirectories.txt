@@ -1,3 +1,0 @@
-/home/wj/ExerciseC++/dateProblem/build/CMakeFiles/edit_cache.dir
-/home/wj/ExerciseC++/dateProblem/build/CMakeFiles/rebuild_cache.dir
-/home/wj/ExerciseC++/dateProblem/build/CMakeFiles/dateProblem.dir

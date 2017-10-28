@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/dateProblem.dir/main.cpp.o  -o dateProblem -rdynamic 
